@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/postgr
 go 1.17
 
 require (
-	github.com/lib/pq v1.10.4
+	github.com/lib/pq v1.10.7
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/scrapertest v0.41.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.41.1-0.20211222180302-3db1d1146483
