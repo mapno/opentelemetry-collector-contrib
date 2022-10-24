@@ -6,7 +6,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/mongodb-forks/digest v1.0.3
 	github.com/pkg/errors v0.9.1
-	go.mongodb.org/atlas v0.14.0
+	go.mongodb.org/atlas v0.18.0
 	go.opentelemetry.io/collector v0.41.1-0.20211222180302-3db1d1146483
 	go.opentelemetry.io/collector/model v0.41.1-0.20211222180302-3db1d1146483
 	go.uber.org/zap v1.19.1
