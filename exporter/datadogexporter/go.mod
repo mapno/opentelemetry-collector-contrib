@@ -26,7 +26,7 @@ require (
 require (
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/shirou/gopsutil v3.21.9+incompatible // indirect
-	go.uber.org/multierr v1.7.0
+	go.uber.org/multierr v1.9.0
 )
 
 require (
@@ -58,7 +58,7 @@ require (
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal => ../../internal/coreinternal
